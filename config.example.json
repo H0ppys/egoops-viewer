@@ -1,0 +1,20 @@
+{
+  "server": "http://<FILL_ME>.example.com/relay",
+  "name": "<FILL_ME>",
+  "download_dir": "<FILL_ME>",
+  "admin_key": "<FILL_ME>",
+  "invite": "",
+  "invites": {},
+  "fill_fields": {
+    "name": true,
+    "address": true,
+    "area": true,
+    "scene": true
+  },
+  "llm": {
+    "base": "https://api.<FILL_ME>/v1",
+    "model": "<FILL_ME>",
+    "key": "<FILL_ME>",
+    "vision_model": "<FILL_ME>"
+  }
+}

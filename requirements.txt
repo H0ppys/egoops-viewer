@@ -1,0 +1,9 @@
+# 运行依赖（版本与开发机 pip 实测一致）
+# 从源码 import 语句提取：playwright / sv_ttk / PIL / numpy
+playwright==1.65.2
+sv-ttk==2.6.1
+pillow==13.0.0
+numpy==2.5.5
+
+# 打包（可选，只有出 exe 时需要）
+# pyinstaller==6.22.3
